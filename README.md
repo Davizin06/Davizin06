@@ -3,7 +3,7 @@
 Sou estudante de **Engenharia de Software** no Inatel e atualmente trabalho como **Estagiário de Desenvolvimento de Software**. Sou um desenvolvedor versátil, que gosta de transitar desde a programação de baixo nível em microcontroladores até o desenvolvimento de sistemas web modernos e integração com IA.
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente atuo na análise de padrões de instalação de equipamentos de radiofrequência (como AAU e BBU) em sites da Huawei.
+- 🔭 Atualmente atuo na análise de .
 - 📚 Aprimorando meus conhecimentos em arquitetura de backend e **Next.js**.
 - 💻 Tenho forte interesse e experiência prática em programação de baixo nível (C/C++ para arquitetura AVR, especificamente ATmega328P).
 - 🏆 Criador do **MILI**, um sistema com IA integrada via câmera e app para detecção de descarte irregular de lixo, que conquistou o 2º lugar em complexidade técnica (Nível 2) na Feira Tecnológica do Inatel em 2025.
