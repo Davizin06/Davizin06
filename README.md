@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/davi-marcondes" target="_blank">
+  <a href="https://www.linkedin.com/in/davimarcondes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/marcondesz19" target="_blank">
+  <a href="https://www.instagram.com/marcondesz19/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="SUA_URL_DO_GITLAB_AQUI" target="_blank">
+  <a href="https://gitlab.com/DaviMarcondes" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+  <a href="mailto:davifermarc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -28,11 +28,10 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software
+- 🎓 Estudante de Engenharia de Software no Inatel
 - 🚀 Apaixonado por desenvolvimento web e mobile
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas de código
-- 💬 Fale comigo sobre JavaScript, TypeScript, React Native ou Python
-- ⚡ Fun fact: *(adicione algo pessoal aqui — hobby, curiosidade, etc.)*
+- ⚡ Estagiando em desenvolvimento de software
 
 <br>
 
@@ -44,7 +43,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -56,8 +56,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davizin06&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davizin06&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" width="35%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=davizin06&show_icons=true&locale=en&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=davizin06&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" width="35%" />
 </div>
 
 <div align="center">
